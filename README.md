@@ -1,6 +1,6 @@
-![Alex Garcia, AWS DevOps Engineer and Cloud Architect](assets/banner.png)
-
 # Alex Garcia
+
+![Alex Garcia, AWS DevOps Engineer and Cloud Architect](assets/banner.png)
 
 AWS DevOps Engineer and Cloud Architect based in Mexico, working US Central hours.
 
@@ -66,15 +66,26 @@ AWS CodePipeline, Docker, Python, Bash, Checkov, Trivy.
 
 ## Certifications
 
-- AWS Certified SysOps Administrator – Associate
-- AWS Certified Developer – Associate
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
-- AWS Academy Certified Educator
+<p>
+  <img src="assets/badges/cloudpractitioner.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="96">
+  <img src="assets/badges/aip.png" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" width="96">
+  <img src="assets/badges/saa.png" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" width="96">
+  <img src="assets/badges/developer.png" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" width="96">
+  <img src="assets/badges/sysops.png" alt="AWS Certified SysOps Administrator – Associate" title="AWS Certified SysOps Administrator – Associate" width="96">
+  <img src="assets/badges/educator.png" alt="AWS Academy Certified Educator" title="AWS Academy Certified Educator" width="96">
+  <img src="assets/badges/terraform.png" alt="HashiCorp Certified Terraform Associate" title="HashiCorp Certified Terraform Associate" width="96">
+</p>
 
 ## Teaching
 
-Adjunct professor of Cloud Architecture and Scalable Systems Design at a university in Guadalajara.
+<a href="https://iteso.mx/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/iteso-dark.svg">
+    <img src="assets/iteso.svg" alt="ITESO, Universidad Jesuita de Guadalajara" width="280">
+  </picture>
+</a>
+
+Adjunct professor of Cloud Architecture and Scalable Systems Design at ITESO, the Jesuit University of Guadalajara.
 
 ## Contact
 
