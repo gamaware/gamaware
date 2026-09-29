@@ -16,7 +16,7 @@ requests for your team's review, and remove the access you gave me when I hand o
   <tr>
     <td align="center"><b>17+</b><br><sub>years in IT</sub></td>
     <td align="center"><b>7</b><br><sub>certifications</sub></td>
-    <td align="center"><b>12</b><br><sub>public evidence repos</sub></td>
+    <td align="center"><b>16</b><br><sub>public evidence repos</sub></td>
     <td align="center"><b>2</b><br><sub>university courses taught</sub></td>
     <td align="center"><b>EN / ES</b><br><sub>US Central hours</sub></td>
   </tr>
@@ -74,6 +74,10 @@ Every repository uses a fictional client and verifies its evidence offline, with
 | [`aws-cost-optimization-audit-sample`](https://github.com/gamaware/aws-cost-optimization-audit-sample) | Savings split into quick wins and planned work, each recalculated from billing data |
 | [`aws-migration-runbook-sample`](https://github.com/gamaware/aws-migration-runbook-sample) | Wave plan, AWS DMS tasks and a timed cutover runbook with a way back |
 | [`aws-devops-workshop-labs`](https://github.com/gamaware/aws-devops-workshop-labs) | Numbered labs on AWS, Terraform, CDK and CI/CD, each tested against its solution |
+| [`terraform-aws-bedrock-rag-lab`](https://github.com/gamaware/terraform-aws-bedrock-rag-lab) | Private RAG API on Amazon Bedrock that cites its sources or refuses, with evaluation gates |
+| [`terraform-aws-agentcore-agent-lab`](https://github.com/gamaware/terraform-aws-agentcore-agent-lab) | AI agent on Bedrock AgentCore whose every tool call is authorized per staff member |
+| [`bedrock-genaiops-release-gate-lab`](https://github.com/gamaware/bedrock-genaiops-release-gate-lab) | Release gate that blocks prompt, model and guardrail changes failing quality, safety or cost |
+| [`aws-genai-architecture-review-sample`](https://github.com/gamaware/aws-genai-architecture-review-sample) | GenAI review against the Generative AI Lens, with a fix per finding and a cost model |
 | [`cdk-python-nag-pipeline-lab`](https://github.com/gamaware/cdk-python-nag-pipeline-lab) | CDK Pipelines app in Python that stops on any unacknowledged cdk-nag finding |
 
 ## Tech stack
