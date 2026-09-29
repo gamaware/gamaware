@@ -12,6 +12,16 @@ requests for your team's review, and remove the access you gave me when I hand o
 [![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b3520cf9e140103)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AWS%20%26%20DevOps-243B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamaware/aws-devops-portfolio)
 
+<table>
+  <tr>
+    <td align="center"><b>17+</b><br><sub>years in IT</sub></td>
+    <td align="center"><b>7</b><br><sub>certifications</sub></td>
+    <td align="center"><b>12</b><br><sub>public evidence repos</sub></td>
+    <td align="center"><b>2</b><br><sub>university courses taught</sub></td>
+    <td align="center"><b>EN / ES</b><br><sub>US Central hours</sub></td>
+  </tr>
+</table>
+
 ## What I do
 
 Each service links to a public repository with a sample deliverable or working code you can inspect.
@@ -40,6 +50,12 @@ Each service links to a public repository with a sample deliverable or working c
   [`aws-devops-workshop-labs`](https://github.com/gamaware/aws-devops-workshop-labs)
 - **Generative AI on AWS**: retrieval-augmented generation, LLM gateways and agents on Amazon Bedrock, plus AI
   coding-assistant rollouts (Claude Code, OpenAI Codex, Amazon Q Developer, Kiro) with MCP for engineering teams.
+
+## How I work
+
+The same five steps on every engagement, whatever the size.
+
+![How I work: scoping call, written plan, pull requests, verified in your account, handover](assets/how-i-work.svg)
 
 ## Featured work
 
@@ -91,6 +107,12 @@ AWS CodePipeline, Docker, Python, Bash, Checkov, Trivy, Amazon Bedrock, Claude C
 </a>
 
 Adjunct professor of Cloud Architecture and Scalable Systems Design at ITESO, the Jesuit University of Guadalajara.
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gamaware&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak for gamaware">
+</p>
 
 ## Contact
 
