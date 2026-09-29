@@ -64,10 +64,7 @@ Every repository uses a fictional client and verifies its evidence offline, with
 
 [![Tech stack](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,gitlab,python,bash,linux,git)](https://skillicons.dev)
 
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
-[![OpenAI](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjQwNiAyNDA2Ij4KCQoJPHBhdGggaWQ9ImEiIGQ9Ik0xMTA3LjMgMjk5LjFjLTE5Ny45OTkgMC0zNzMuOSAxMjcuMy00MzUuMiAzMTUuM0w2NTAgNzQzLjV2NDI3LjljMCAyMS40IDExIDQwLjQgMjkuNCA1MS40bDM0NC41IDE5OC41MTVWODMzLjNoLjF2LTI3LjlMMTM3Mi43IDYwNGMzMy43MTUtMTkuNTIgNzAuNDQtMzIuODU3IDEwOC40Ny0zOS44MjhMMTQ0Ny42IDQ1MC4zQzEzNjEgMzUzLjUgMTIzNy4xIDI5OC41IDExMDcuMyAyOTkuMXptMCAxMTcuNS0uNi42Yzc5LjY5OSAwIDE1Ni4zIDI3LjUgMjE3LjYgNzguNC0yLjUgMS4yLTcuNCA0LjMtMTEgNi4xTDk1Mi44IDcwOS4zYy0xOC40IDEwLjQtMjkuNCAzMC0yOS40IDUxLjRWMTI0OGwtMTU1LjEtODkuNFY3NTUuOGMtLjEtMTg3LjA5OSAxNTEuNjAxLTMzOC45IDMzOS0zMzkuMnoiIGZpbGw9IiNmZmYiLz4KCTx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0icm90YXRlKDYwIDEyMDMgMTIwMykiLz4KICAJPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwIDEyMDMgMTIwMykiLz4KCTx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0icm90YXRlKDE4MCAxMjAzIDEyMDMpIi8+Cgk8dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09InJvdGF0ZSgyNDAgMTIwMyAxMjAzKSIvPgoJPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMzAwIDEyMDMgMTIwMykiLz4KCjwvc3ZnPg==)](https://openai.com/codex/)
-[![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1F2937?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+![AI stack: Amazon Bedrock, Claude, OpenAI, Amazon Q Developer, Kiro, Model Context Protocol](assets/ai-stack.svg)
 
 AWS, Terraform, AWS CDK, CloudFormation, Amazon EKS, Amazon ECS, Helm, Argo CD, GitHub Actions, GitLab CI,
 AWS CodePipeline, Docker, Python, Bash, Checkov, Trivy, Amazon Bedrock, Claude Code, OpenAI Codex, MCP.
