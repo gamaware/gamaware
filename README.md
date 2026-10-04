@@ -50,6 +50,9 @@ Each service links to a public repository with a sample deliverable or working c
   [`aws-devops-workshop-labs`](https://github.com/gamaware/aws-devops-workshop-labs)
 - **Generative AI on AWS**: retrieval-augmented generation, LLM gateways and agents on Amazon Bedrock, plus AI
   coding-assistant rollouts (Claude Code, OpenAI Codex, Amazon Q Developer, Kiro) with MCP for engineering teams.
+  Evidence: [`terraform-aws-bedrock-rag-lab`](https://github.com/gamaware/terraform-aws-bedrock-rag-lab),
+  [`terraform-aws-agentcore-agent-lab`](https://github.com/gamaware/terraform-aws-agentcore-agent-lab),
+  [`bedrock-genaiops-release-gate-lab`](https://github.com/gamaware/bedrock-genaiops-release-gate-lab)
 
 ## How I work
 
