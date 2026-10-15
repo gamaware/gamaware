@@ -2,70 +2,29 @@
 
 ![Alex Garcia, AWS DevOps Engineer and Cloud Architect](assets/banner.png)
 
-AWS DevOps Engineer and Cloud Architect for DevOps and generative AI on AWS, based in Mexico, working US Central hours.
+AWS DevOps Engineer and Cloud Architect focused on DevOps and generative AI on AWS.
 
-I'm an AWS DevOps engineer with more than 17 years in IT. I build and repair AWS infrastructure, delivery pipelines
-and generative AI platforms using Terraform, AWS CDK, CI/CD, containers and Amazon Bedrock, and I set up AI coding
-assistants with MCP so engineering teams ship faster. I document the plan before making any change, submit pull
-requests for your team's review, and remove the access you gave me when I hand over the work.
+I'm an AWS DevOps engineer with more than 17 years in IT. I build AWS infrastructure, delivery pipelines and
+generative AI platforms with Terraform, AWS CDK, CI/CD, containers and Amazon Bedrock, and I work with AI coding
+assistants and MCP.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AWS%20%26%20DevOps-243B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamaware/aws-devops-portfolio)
+[![Website](https://img.shields.io/badge/Website-alexgarcia.info-243B53?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexgarcia.info)
 
 <table>
   <tr>
     <td align="center"><b>17+</b><br><sub>years in IT</sub></td>
     <td align="center"><b>7</b><br><sub>certifications</sub></td>
-    <td align="center"><b>16</b><br><sub>public evidence repos</sub></td>
+    <td align="center"><b>16</b><br><sub>public repositories</sub></td>
     <td align="center"><b>2</b><br><sub>university courses taught</sub></td>
-    <td align="center"><b>EN / ES</b><br><sub>US Central hours</sub></td>
   </tr>
 </table>
 
-## What I do
-
-Each service links to a public repository with a sample deliverable or working code you can inspect.
-
-- **Terraform on AWS audit and fix**: a ranked diagnosis of risky infrastructure code, fixes as pull requests and a
-  state migration that destroys nothing. Evidence:
-  [`terraform-aws-rescue-lab`](https://github.com/gamaware/terraform-aws-rescue-lab)
-- **CI/CD pipeline to AWS**: keyless deploys through OIDC, with image scanning and automatic rollback. Evidence:
-  [`github-actions-aws-oidc-lab`](https://github.com/gamaware/github-actions-aws-oidc-lab)
-- **AWS security and IAM review**: findings ranked by risk, policy rewrites that narrow access, and a baseline set of
-  guardrails. Evidence: [`aws-iam-security-review-sample`](https://github.com/gamaware/aws-iam-security-review-sample)
-- **Kubernetes on Amazon EKS**: clusters built with Terraform and delivered through Helm and Argo CD. Evidence:
-  [`terraform-aws-eks-gitops-lab`](https://github.com/gamaware/terraform-aws-eks-gitops-lab)
-- **Containerize and deploy to ECS Fargate**: a repeatable, reversible path from one machine to AWS. Evidence:
-  [`aws-ecs-fargate-deploy-lab`](https://github.com/gamaware/aws-ecs-fargate-deploy-lab)
-- **AWS landing zone for a new project**: separate accounts, central sign-in, an audit trail and tested service
-  control policies. Evidence:
-  [`terraform-aws-landing-zone-lab`](https://github.com/gamaware/terraform-aws-landing-zone-lab)
-- **DevOps and Well-Architected assessment**: a risk-rated backlog and a roadmap your team can execute. Evidence:
-  [`aws-well-architected-assessment-sample`](https://github.com/gamaware/aws-well-architected-assessment-sample)
-- **AWS cost optimization audit**: ranked savings with stated assumptions, plus tagging and ownership for the spend.
-  Evidence: [`aws-cost-optimization-audit-sample`](https://github.com/gamaware/aws-cost-optimization-audit-sample)
-- **Migration to AWS**: a wave plan and a cutover runbook with rollback triggers. Evidence:
-  [`aws-migration-runbook-sample`](https://github.com/gamaware/aws-migration-runbook-sample)
-- **AWS workshop and mentoring**: hands-on labs with starter code, solutions and tests. Evidence:
-  [`aws-devops-workshop-labs`](https://github.com/gamaware/aws-devops-workshop-labs)
-- **Generative AI on AWS**: retrieval-augmented generation, LLM gateways and agents on Amazon Bedrock, plus AI
-  coding-assistant rollouts (Claude Code, OpenAI Codex, Amazon Q Developer, Kiro) with MCP for engineering teams.
-  Evidence: [`terraform-aws-bedrock-rag-lab`](https://github.com/gamaware/terraform-aws-bedrock-rag-lab),
-  [`terraform-aws-agentcore-agent-lab`](https://github.com/gamaware/terraform-aws-agentcore-agent-lab),
-  [`bedrock-genaiops-release-gate-lab`](https://github.com/gamaware/bedrock-genaiops-release-gate-lab)
-
-## How I work
-
-The same five steps on every engagement, whatever the size.
-
-![How I work: scoping call, written plan, pull requests, verified in your account, handover](assets/how-i-work.svg)
-
-## Featured work
-
-Every repository uses a fictional client and verifies its evidence offline, without an AWS account.
+## Projects
 
 | Repository | Outcome |
 | --- | --- |
-| [`aws-devops-portfolio`](https://github.com/gamaware/aws-devops-portfolio) | Index of every service, with a check that keeps the whole collection consistent |
+| [`aws-devops-portfolio`](https://github.com/gamaware/aws-devops-portfolio) | Index of the projects in this portfolio, with a check that keeps them consistent |
 | [`terraform-aws-rescue-lab`](https://github.com/gamaware/terraform-aws-rescue-lab) | Untrusted Terraform turned into tested modules with remote state and a plan gate |
 | [`github-actions-aws-oidc-lab`](https://github.com/gamaware/github-actions-aws-oidc-lab) | Long-lived CI keys replaced by OIDC, and deploys that fail when ECS rolls back |
 | [`aws-iam-security-review-sample`](https://github.com/gamaware/aws-iam-security-review-sample) | Security review report with ranked findings and a control-to-evidence map for SOC 2 |
@@ -119,7 +78,3 @@ Adjunct professor of Cloud Architecture and Scalable Systems Design at ITESO, th
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gamaware&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak for gamaware">
 </p>
-
-## Contact
-
-I reply within a business day on weekdays. More about me at [alexgarcia.info](https://alexgarcia.info).
