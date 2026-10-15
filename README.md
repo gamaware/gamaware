@@ -9,7 +9,6 @@ and generative AI platforms using Terraform, AWS CDK, CI/CD, containers and Amaz
 assistants with MCP so engineering teams ship faster. I document the plan before making any change, submit pull
 requests for your team's review, and remove the access you gave me when I hand over the work.
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b3520cf9e140103)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AWS%20%26%20DevOps-243B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamaware/aws-devops-portfolio)
 
 <table>
@@ -123,6 +122,5 @@ Adjunct professor of Cloud Architecture and Scalable Systems Design at ITESO, th
 
 ## Contact
 
-I work in English and Spanish, and I reply within a business day on weekdays.
-
-[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b3520cf9e140103)
+I work in English and Spanish, and I reply within a business day on weekdays. More about me at
+[alexgarcia.info](https://alexgarcia.info).
