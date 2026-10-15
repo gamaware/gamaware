@@ -122,5 +122,4 @@ Adjunct professor of Cloud Architecture and Scalable Systems Design at ITESO, th
 
 ## Contact
 
-I work in English and Spanish, and I reply within a business day on weekdays. More about me at
-[alexgarcia.info](https://alexgarcia.info).
+I reply within a business day on weekdays. More about me at [alexgarcia.info](https://alexgarcia.info).
